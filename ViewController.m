@@ -2,7 +2,7 @@
 //  ViewController.m
 //  UIShapLayer画图
 //
-//  Created by 刘忠华 on 2022/1/28.
+//  Created by  on 2022/1/28.
 //
 
 #import "ViewController.h"
